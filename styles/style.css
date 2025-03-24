@@ -14,3 +14,11 @@ th{
     color: white;
 }
 
+footer {
+    width: 100%;
+    text-align: center;
+    background-color:grey;
+    position: absolute;
+    bottom: 0;
+    color: white;
+}
