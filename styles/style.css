@@ -1,0 +1,16 @@
+.tbl-data{
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 18px;
+    text-align: left;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+th{
+    background-color: grey;
+    color: white;
+}
+
